@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sample Meow Bottom Nav</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="user_fragment">User Fragment</string>
+    <string name="notifications_fragment">Notifications Fragment</string>
+    <string name="explore_fragment">Explore Fragment</string>
+    <string name="chat_fragment">Chat Fragment</string>
+</resources>
