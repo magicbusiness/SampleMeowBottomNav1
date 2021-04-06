@@ -1,0 +1,5 @@
+To use Meow Bottom Navbar
+1. implement new dependencies -> implementation 'com.etebarian:meow-bottom-navigation:1.0.4' then Syns
+2. Next Implement methode for fragment but add -> addToBackStack. 
+    Also in fragment kotlin add companion object newInstance()
+3. Lastly add MeowBottomNavigation.Model then setOnClickMenuListener
